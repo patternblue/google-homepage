@@ -1,3 +1,3 @@
 # google-homepage
 My first repository on GitHub.
-Hi! I like playing guitar and taking walks.
+First project: http://www.theodinproject.com/web-development-101/html-css
